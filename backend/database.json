@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8dff8f29-1792-437a-b0fb-8c4544b77239",
+    "name": "Kevin",
+    "quantity": 3,
+    "price": 3000,
+    "category": "Electronics"
+  },
+  {
+    "id": "281d7957-7f94-4f39-bf37-a652f1760c87",
+    "name": "Another Item Edited",
+    "quantity": 4,
+    "price": 4500,
+    "category": "Office Supplies"
+  }
+]
